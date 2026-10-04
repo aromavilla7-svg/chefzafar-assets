@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<b:include data='blog' name='all-head-content'/>
+<title>Chef Zafar Ahmed - Chef, Mentor, Entrepreneur | AromaVilla Cooking School</title>
+<meta content="Chef Zafar Ahmed's portfolio and AromaVilla Cooking School: professional cooking workshops, food costing and ebooks in Dhaka, Bangladesh." name='description'/>
+<meta content='#1E241F' name='theme-color'/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin='anonymous'/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&amp;family=Manrope:wght@400;600;800&amp;display=swap" rel="stylesheet"/>
+<script type='text/javascript'>
+//<![CDATA[
+// ===================== SETTINGS =====================
+// 1) Put YOUR GitHub username below (and repo name if different):
+var BASE="https://cdn.jsdelivr.net/gh/YOUR-GITHUB-USERNAME/chefzafar-assets@main/";
+// 2) Number of photos in each gallery folder (change when you add photos):
+var N={"with-master-chef":12,"with-celebrities":3,"my-loving-touch":25};
+// ====================================================
+//]]>
+</script>
+<b:skin><![CDATA[
+:root{--ink:#1E241F;--paper:#F7F3EA;--sand:#EAE2D3;--saf:#E57B20;--mut:#596159}
+*{box-sizing:border-box;margin:0}html{scroll-behavior:smooth}
+body{font-family:Manrope,system-ui,sans-serif;background:var(--paper);color:var(--ink);line-height:1.7}
+h1,h2,h3{font-family:"DM Serif Display",Georgia,serif;font-weight:400;line-height:1.15}
+a{color:inherit}.w{max-width:1120px;margin:auto;padding:0 20px}
+.eb{font-size:11px;font-weight:800;letter-spacing:.2em;text-transform:uppercase;color:#A85A17}
+.btn{display:inline-block;padding:13px 24px;border-radius:99px;background:var(--saf);color:#fff;font-weight:800;font-size:12px;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;border:2px solid var(--saf)}
+.btn.o{background:none;color:inherit;border-color:currentColor}
+header{position:sticky;top:0;z-index:9;background:rgba(247,243,234,.94);backdrop-filter:blur(8px);border-bottom:1px solid #1e241f1a}
+header .w{display:flex;justify-content:space-between;align-items:center;height:64px}
+.logo img{height:54px;display:block}.hl{height:clamp(140px,18vw,210px);display:block;margin:0 0 22px -8px}.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}nav a{white-space:nowrap}
+nav a{margin-left:20px;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.1em;text-decoration:none}nav a:hover{color:var(--saf)}.mb{display:none;background:none;border:0;color:var(--ink);cursor:pointer;padding:6px;border-radius:8px}
+.hero .w{display:grid;grid-template-columns:1fr 1fr;min-height:640px;gap:0}
+.hero{background:var(--sand)}
+.pic{position:relative;background:var(--ink) center/cover}
+.pic img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 0}
+.txt{padding:64px 0 64px 56px;align-self:center}
+.txt h1{font-size:clamp(38px,5vw,64px);margin:16px 0}.txt h1 em{color:var(--saf)}
+.txt p{max-width:440px;color:var(--mut);margin-bottom:28px}.txt .btn+.btn{margin-left:10px;color:var(--ink)}
+section{padding:88px 0}.sec2{background:var(--sand)}.dark{background:var(--ink);color:var(--paper)}
+h2{font-size:clamp(30px,4vw,46px);margin:12px 0 20px}
+.tl{display:grid;gap:22px;margin-top:40px;grid-template-columns:repeat(2,1fr)}
+.tl div{background:#FFFDF8;padding:26px;border-radius:14px;border:1px solid #1e241f14}
+.tl b{font-family:"DM Serif Display";color:var(--saf);font-size:26px;font-weight:400}.tl h3{font-size:22px;margin:4px 0 8px}.tl p{font-size:14px;color:var(--mut)}
+blockquote{font-family:"DM Serif Display";font-size:clamp(22px,3vw,32px);margin:36px 0 0;border-left:4px solid var(--saf);padding-left:20px}
+.ex{display:grid;grid-template-columns:1.3fr 1fr;gap:28px;margin-top:36px}.ex h3{font-size:24px;color:#F2C08C;margin:0 0 16px}.ex>div>div{margin-bottom:26px}.ex ul{list-style:none;padding:0}.ex li{padding:0 0 14px 18px;border-left:2px solid #E57B2066;position:relative;font-size:14px;opacity:.92}.ex li:before{content:"";position:absolute;left:-6px;top:6px;width:10px;height:10px;border-radius:50%;background:var(--saf)}.ex li b{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#EAA65F}.ex li span{opacity:.7}#ge{margin-top:28px;color:var(--mut)}
+.vid{display:block;width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:16px;background:#000}.sv{display:grid;grid-template-columns:minmax(0,480px) 1fr;gap:40px;align-items:center;margin-top:8px}#gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin-top:24px}
+#gal img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:12px;cursor:zoom-in;background:var(--sand)}
+.tabs{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}.tabs button{font:800 12px Manrope,sans-serif;letter-spacing:.1em;text-transform:uppercase;padding:11px 20px;border-radius:99px;border:2px solid var(--ink);background:none;color:var(--ink);cursor:pointer}.tabs button.on{background:var(--ink);color:var(--paper)}
+#lb{position:fixed;inset:0;background:#000e;display:none;align-items:center;justify-content:center;z-index:99}#lb img{max-width:92vw;max-height:88vh;border-radius:8px}
+#lb button{position:absolute;background:#ffffff26;color:#fff;border:0;width:46px;height:46px;border-radius:50%;font-size:30px;line-height:1;cursor:pointer}.lx{top:16px;right:16px}.lp{left:12px;top:50%}.ln{right:12px;top:50%}
+.sv .g3{grid-template-columns:1fr;gap:18px}
+.fac{background:var(--saf);color:var(--ink);padding-top:0}.fac .eb{color:var(--ink)}.fac h2{font-size:clamp(40px,7vw,84px);line-height:1}.fac h2 em{display:block;font-size:.5em;margin-top:10px}
+.fac .lead{max-width:600px;font-size:18px;margin-bottom:8px}.fac .btn{background:var(--ink);border-color:var(--ink)}.fac .btn.o{background:none;color:var(--ink)}
+.mq{background:var(--ink);color:var(--paper);overflow:hidden;white-space:nowrap;padding:14px 0;margin-bottom:72px}.mq div{display:inline-block;animation:mq 30s linear infinite}
+.mq span{margin:0 22px;font:800 12px Manrope,sans-serif;letter-spacing:.2em;text-transform:uppercase}.mq span:after{content:"\2726";margin-left:44px;color:var(--saf)}
+@keyframes mq{to{transform:translateX(-50%)}}@media(prefers-reduced-motion:reduce){.mq div{animation:none}}
+.fc div{background:var(--ink);color:var(--paper);padding:28px;border-radius:16px}.fc b{font-family:"DM Serif Display",serif;font-weight:400;font-size:44px;color:var(--saf);line-height:1}.fc h3{margin:8px 0 10px;font-size:24px}.fc p{font-size:14px;opacity:.8}
+.g3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:36px}
+.card{background:#FFFDF8;border-radius:16px;overflow:hidden;border:1px solid #1e241f14;display:flex;flex-direction:column}
+.card img{width:100%;aspect-ratio:4/3;object-fit:cover;background:var(--sand)}
+.card div{padding:22px}.card h3{font-size:24px;margin:6px 0}.card p{font-size:14px;color:var(--mut)}
+.pil{background:none;border:0;padding:0}.pil b{color:var(--saf);font-size:13px;letter-spacing:.15em}
+.pr{font-family:"DM Serif Display";font-size:26px;margin-top:14px}.pr del{font-size:14px;opacity:.5}
+.hd{display:flex;align-items:center;gap:16px;background:var(--ink);padding:28px;border-radius:16px;margin-bottom:8px}
+.hd img{height:72px;background:#FFFDF8;border-radius:6px;padding:4px}
+.cta{text-align:center}.cta h2{max-width:680px;margin:12px auto 18px}.cta p{max-width:520px;margin:0 auto 28px;opacity:.7}
+footer{background:#161b17;color:#F7F3EAcc;padding:40px 0;font-size:14px}footer .w{display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px}
+
+.st{display:grid;gap:28px;margin-top:36px}
+.st .card{flex-direction:row}.st .card img{width:46%;aspect-ratio:auto;min-height:340px;object-fit:cover;flex-shrink:0}
+.st .card img.cv{object-fit:contain;padding:24px;width:34%;min-height:0;align-self:center;background:var(--sand);height:auto;max-height:480px}.st .card div{padding:36px;align-self:center}
+.st .card h3{font-size:clamp(26px,3vw,34px)}.st .card p{font-size:15px}
+.bt{display:flex;flex-wrap:wrap;gap:10px}.bt.c{justify-content:center}img{max-width:100%}.txt .bt .btn+.btn{margin-left:0}
+@media(max-width:1024px){.st .card div{padding:26px}}
+@media(max-width:560px){#gal{grid-template-columns:repeat(2,1fr);gap:8px}.tabs button{padding:10px 14px;font-size:11px}}
+@media(max-width:820px){.sv{grid-template-columns:1fr;gap:24px}.vid{max-width:520px}section{padding:56px 0}.st .card{flex-direction:column}.st .card img{width:100%;min-height:0;aspect-ratio:4/3}.st .card img.cv{width:100%;aspect-ratio:1/1;max-height:380px;height:auto}.st .card div{padding:22px;align-self:stretch}.hd{flex-direction:column;text-align:center}header .w{height:60px}.logo{flex-shrink:0}.logo img{height:46px}.pic{min-height:380px}.txt{padding:36px 0 48px}}
+@media(max-width:1100px){.mb{display:flex}nav{display:none;position:absolute;top:100%;left:0;right:0;background:var(--paper);flex-direction:column;padding:8px 20px 16px;border-bottom:1px solid #1e241f1a;box-shadow:0 12px 24px #0002}nav a{margin:0;padding:14px 0;font-size:13px;border-bottom:1px solid #1e241f14}header.open nav{display:flex}}
+@media(max-width:820px){.hero .w{grid-template-columns:1fr}.pic{min-height:420px}.txt{padding:40px 0}.tl,.g3,.ex{grid-template-columns:1fr}}
+]]></b:skin>
+</head>
+<body>
+
+<header><div class="w"><a class="logo" href="#top" aria-label="ChefZafar"><img src="data:image/png;base64,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" alt=""/></a><button class="mb" id="mb" aria-label="Menu" aria-expanded="false"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path id="mp" d="M4 7h16M4 12h16M4 17h16"/></svg></button><nav id="nv"><a href="#portfolio">Portfolio</a><a href="#experience">Experience</a><a href="#gallery">Gallery</a><a href="#school">AromaVilla School</a><a href="#factory">AromaVilla (A Delicious Food Factory)</a><a class="k" href="#contact">Contact</a></nav></div></header>
+
+<div class="hero" id="top"><div class="w">
+<div class="pic"><img data-a="chef-hero.jpg" alt="Chef Zafar Ahmed in professional chef uniform"/></div>
+<div class="txt"><h1 class="sr">ChefZafar</h1>
+<p>A journey from Dhaka's streets to the fine-dining table — now teaching the next generation how to turn cooking skill into a real food business.</p>
+<div class="bt"><a class="btn" href="#portfolio">My Story</a><a class="btn o" href="#school">AromaVilla Cooking School</a></div></div></div></div>
+
+<section id="portfolio"><div class="w"><p class="eb">ChefZafar portfolio</p>
+<h2>A journey from Dhaka's streets to the fine-dining table.</h2>
+<p style="max-width:640px;color:var(--mut)">Chef Zafar Ahmed is a chef, mentor, entrepreneur, and consultant building a more ambitious culinary future for Bangladesh.</p>
+<div class="tl">
+<div><b>01</b><h3>Beginnings in Dhaka</h3><p>I grew up in the busy streets of Dhaka, surrounded by noise, narrow alleys, and the smell of colourful street food. From childhood, I felt a strong pull toward cooking.</p></div>
+<div><b>02</b><h3>The first kitchen</h3><p>My culinary journey began in 2009. Slowly, I earned my place in the kitchens of four top five-star hotels in Dhaka: The Westin, Le Méridien, Renaissance and InterContinental.</p></div>
+<div><b>03</b><h3>The fine-dining table</h3><p>That experience introduced me to fine dining. I learned that food is more than something to eat — it is an experience, and every plate tells a story.</p></div>
+<div><b>04</b><h3>International perspective</h3><p>I shared kitchens with master chefs from France, Greece, Germany, China, Malaysia, Indonesia and Italy when they came to Bangladesh, and became especially skilled in Mediterranean cuisine.</p></div>
+<div><b>05</b><h3>For every guest</h3><p>My cooking has reached the Honorable President of Bangladesh, Nobel Laureate Dr. Muhammad Yunus, cricket stars and many more — but the best reward is a regular guest saying, "Wow, that was amazing!"</p></div>
+<div><b>06</b><h3>Science meets art</h3><p>I discovered molecular gastronomy, which combines science and art to change the texture, smell and look of food. I want to be part of its future in Bangladesh.</p></div>
+<div><b>07</b><h3>Teaching a future</h3><p>I started AromaVilla Cooking School to give young people the tools to build a better future — to dream, and to turn those dreams into reality.</p></div>
+<div><b>08</b><h3>The stage ahead</h3><p>I am a teacher, entrepreneur, mentor and consultant. My goal is to bring Bangladesh's culinary world to the global stage.</p></div>
+</div>
+<blockquote>"Food is not just fuel for the body — it's a language of love, stories, and discovery."<br/><small style="font:800 12px Manrope;letter-spacing:.15em;text-transform:uppercase;color:var(--saf)">— Chef Zafar Ahmed</small></blockquote>
+</div></section>
+
+<section class="dark" id="experience"><div class="w"><p class="eb" style="color:#EAA65F">Experience &amp; credentials</p><h2>17+ years in professional kitchens.</h2>
+<div class="ex"><div><h3>Working experience</h3><ul>
+<li><b>Oct 2023 – Present</b>InterContinental Dhaka</li>
+<li><b>Jun 2021 – Oct 2023</b>Renaissance Dhaka Gulshan Hotel</li>
+<li><b>Sep 2015 – May 2020</b>Le Méridien Dhaka</li>
+<li><b>Jun 2010 – Aug 2015</b>Elite Logistics Service Ltd, deputed to Grameenphone</li>
+<li><b>Jun 2009 – Jun 2010</b>The Westin Dhaka</li></ul></div>
+<div><div><h3>Education</h3><ul>
+<li><b>Bachelor of Social Science</b>Habibullah Bahar College, Dhaka</li>
+<li><b>HSC · Pass 2007</b>Dhaka Imperial College<br/><span>Business Studies, GPA 4.70</span></li>
+<li><b>SSC · Pass 2005</b>Dhaka Cotton Mills High School<br/><span>Business Studies, GPA 3.56</span></li></ul></div>
+<div><h3>Trainings &amp; certifications</h3><ul>
+<li><b>2023</b>Food &amp; Beverage Production (Level-3)<br/><span>NSDA</span></li>
+<li><b>2023</b>Culinary Foundation NTVQF (Level-1)<br/><span>Bangladesh Technical Education Board (BTEB)</span></li>
+<li><b>2019</b>National Certificate Course in Food &amp; Beverage Production<br/><span>NHTTI, Bangladesh</span></li>
+<li><b>2018</b>Food Safety &amp; Hygiene<br/><span>Le Méridien Dhaka</span></li>
+<li><b>Recognition</b>Associate of the Month, "Outstanding care for guests"<br/><span>Le Méridien Dhaka</span></li>
+<li><b>Le Méridien Dhaka</b>Pre-opening team member</li></ul></div></div></div></div></section>
+
+<section class="sec2" id="gallery"><div class="w"><p class="eb">Gallery</p><h2>From the kitchen.</h2><div id="tabs" class="tabs"></div><div id="gal"></div></div></section>
+
+<section id="school"><div class="w">
+<div class="hd"><img data-a="aromavilla-logo.png" alt="AromaVilla logo"/><div style="color:#F7F3EA"><p class="eb" style="color:#F2C08C">ChefZafar's practical school</p><h3 style="font-size:28px">AromaVilla Cooking School</h3></div></div>
+<h2 style="margin-top:40px">A practical school for the next generation of food business.</h2>
+<div class="sv"><video class="vid" data-a="aromavilla-school.mp4" data-p="aromavilla-school.jpg" autoplay='autoplay' muted='muted' loop='loop' playsinline='playsinline' controls='controls' preload='metadata'></video><div>
+<p style="color:var(--mut)">Join Chef Zafar in person for practical culinary instruction, food costing, and confident business thinking. Each workshop is like a working kitchen brief: learn the method, understand the number, then make the next move.</p>
+<div class="g3" style="margin-top:28px">
+<div class="pil"><b>01</b><h3>Professional technique</h3><p style="color:var(--mut);font-size:14px">Chef-led methods, reliable processes, and recipes designed for consistent results.</p></div>
+<div class="pil"><b>02</b><h3>Cost and control</h3><p style="color:var(--mut);font-size:14px">Pricing, portions, food costing, and the business decisions behind every plate.</p></div>
+<div class="pil"><b>03</b><h3>A future in food</h3><p style="color:var(--mut);font-size:14px">Confidence to begin a home-based food project, cloud kitchen, or food-cart business.</p></div></div></div></div>
+
+<p class="eb" style="margin-top:64px">Offline workshops · Dhaka</p><h2>Join a workshop.</h2>
+<div class="st">
+<div class="card"><img data-a="workshop-costing.jpg" alt="Food Costing Mastery"/><div><p class="eb">Business Essentials · Offline · 1 day</p><h3>Food Costing Mastery</h3><p>An in-person workshop to build a repeatable food-costing system that protects your margin without compromising your plate.</p><p class="pr">৳ 1,000 <small style="font:800 10px Manrope;letter-spacing:.12em;color:var(--saf)">OFFER FEE</small></p><br/><a class="btn" href="https://aromavilla-epyvphze.manus.space/payment?type=course&amp;item=Food%20Costing%20Mastery&amp;amount=%E0%A7%B3%201%2C000" target="_blank" rel="noopener">Enroll now</a></div></div>
+<div class="card"><img data-a="workshop-cloud-kitchen.jpg" alt="Cloud and Food Cart Business"/><div><p class="eb">Business Builder · Offline · 1 day</p><h3>Build Your Cloud &amp; Food Cart Business</h3><p>An in-person workshop for menu structure, setup decisions, and a confident first operating day.</p><p class="pr">৳ 1,000 <small style="font:800 10px Manrope;letter-spacing:.12em;color:var(--saf)">OFFER FEE</small></p><br/><a class="btn" href="https://aromavilla-epyvphze.manus.space/payment?type=course&amp;item=Build%20Your%20Cloud%20%26%20Food%20Cart%20Business&amp;amount=%E0%A7%B3%201%2C000" target="_blank" rel="noopener">Enroll now</a></div></div></div>
+
+<p class="eb" style="margin-top:64px">The digital shelf</p><h2>Take the kitchen notes home.</h2>
+<div class="st">
+<div class="card"><img data-a="ebook-world-of-sauce.jpg" class="cv" alt="World of Sauce ebook"/><div><p class="eb">Ebook</p><h3>World of Sauce</h3><p>A focused collection of sauces to sharpen flavour, finish, and presentation.</p><p class="pr">৳ 199 <del>৳ 450</del></p><br/><a class="btn" href="https://aromavilla-epyvphze.manus.space/payment?type=ebook&amp;item=World%20of%20Sauce&amp;amount=%E0%A7%B3%20199" target="_blank" rel="noopener">Buy now</a></div></div>
+<div class="card"><img data-a="ebook-food-costing.jpg" class="cv" alt="Food Costing ebook"/><div><p class="eb">Ebook</p><h3>Food Costing</h3><p>A practical guide to price, portion, and profit with confidence.</p><p class="pr">৳ 299 <del>৳ 450</del></p><br/><a class="btn" href="https://aromavilla-epyvphze.manus.space/payment?type=ebook&amp;item=Food%20Costing&amp;amount=%E0%A7%B3%20299" target="_blank" rel="noopener">Buy now</a></div></div></div>
+</div></section>
+
+<section class="fac" id="factory"><div class="mq"><div><span>Handcrafted</span><span>Studio kitchen</span><span>Chef Zafar</span><span>A food brand</span><span>A delicious food factory</span><span>Handcrafted</span><span>Studio kitchen</span><span>Chef Zafar</span><span>Online &amp; offline</span><span>A delicious food factory</span><span>Handcrafted</span><span>Studio kitchen</span><span>Chef Zafar</span><span>Online &amp; offline</span><span>A delicious food factory</span><span>Handcrafted</span><span>Studio kitchen</span><span>Chef Zafar</span><span>Online &amp; offline</span><span>A delicious food factory</span></div></div><div class="w">
+<p class="eb">Chef Zafar's studio kitchen</p>
+<h2>AromaVilla<em>(A Delicious Food Factory)</em></h2>
+<p class="lead">Where handcrafted food is made with a chef's eye for detail.</p>
+<div class="g3 fc" style="margin-bottom:36px">
+<div><b>01</b><h3>The studio kitchen</h3><p>Every AromaVilla creation begins in Chef Zafar's own studio kitchen.</p></div>
+<div><b>02</b><h3>Handcrafted</h3><p>Made by hand with professional technique and the attention to detail of a fine-dining kitchen.</p></div>
+<div><b>03</b><h3>A food brand</h3><p>AromaVilla is more than a kitchen. It is a food brand built on flavour, craft and trust.</p></div></div>
+<div class="bt"><a class="btn" href="https://wa.me/8801552333335" target="_blank" rel="noopener">Message on WhatsApp</a><a class="btn o" href="https://t.me/AromaVilla_ChefZafar" target="_blank" rel="noopener">Join on Telegram</a></div>
+</div></section>
+
+<section class="dark cta" id="contact"><div class="w"><p class="eb" style="color:#EAA65F">Ready to start?</p>
+<h2>Choose the workshop that moves your kitchen forward.</h2>
+<p>Enroll on the AromaVilla site, pay by bKash, and send your screenshot for quick approval. Questions? Message us anytime.</p>
+<div class="bt c"><a class="btn" href="https://aromavilla-epyvphze.manus.space/" target="_blank" rel="noopener">Enroll at AromaVilla</a>
+<a class="btn o" href="https://wa.me/8801552333335" target="_blank" rel="noopener">WhatsApp</a>
+<a class="btn o" href="https://t.me/AromaVilla_ChefZafar" target="_blank" rel="noopener">Telegram</a></div></div></section>
+
+<footer><div class="w"><div>© 2026 ChefZafar · AromaVilla Cooking School</div><div><a href="mailto:aromavilla7@gmail.com">aromavilla7@gmail.com</a> · <a href="tel:+8801552333335">+880 1552-333335</a></div></div></footer>
+<div id="lb"><button class="lx" id="lx" aria-label="Close">&#215;</button><button class="lp" id="lp" aria-label="Previous">&#8249;</button><img alt=""/><button class="ln" id="ln" aria-label="Next">&#8250;</button></div>
+
+<div style='display:none'><b:section class='main' id='main' showaddelement='no'><b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='2'/></b:section></div>
+<script type='text/javascript'>
+//<![CDATA[
+document.querySelectorAll("[data-p]").forEach(function(e){e.poster=BASE+e.getAttribute("data-p")});
+document.querySelectorAll("[data-a]").forEach(function(e){e.src=BASE+e.getAttribute("data-a")});
+
+var C=[["with-master-chef","With Master Chef"],["with-celebrities","With Celebrities"],["my-loving-touch","My Loving Touch"]],P={"with-master-chef":"master-","with-celebrities":"celeb-","my-loving-touch":"touch-"},L={},cur=0,li=0;
+var g=document.getElementById("gal"),tb=document.getElementById("tabs"),lb=document.getElementById("lb"),li_=lb.querySelector("img");
+function src(j){return BASE+P[C[cur][0]]+L[C[cur][0]][j]}
+function show(i){cur=i;g.innerHTML="";[].forEach.call(tb.children,function(b,k){b.className=k==i?"on":""});
+ L[C[i][0]].forEach(function(f,j){var m=new Image();m.src=src(j);m.alt=C[i][1]+" "+(j+1);m.loading="lazy";m.onclick=function(){open_(j)};g.appendChild(m)})}
+function open_(j){var n=L[C[cur][0]].length;li=(j+n)%n;li_.src=src(li);lb.style.display="flex"}
+function init(d){C.forEach(function(c,i){L[c[0]]=d[c[0]]||[];var b=document.createElement("button");b.textContent=c[1]+" ("+L[c[0]].length+")";b.onclick=function(){show(i)};tb.appendChild(b)});show(0)}
+function fb(){var d={};for(var k in N){d[k]=[];for(var i=1;i<=N[k];i++)d[k].push(i+".jpg")}return d}
+init(fb());
+document.getElementById("lp").onclick=function(e){e.stopPropagation();open_(li-1)};document.getElementById("ln").onclick=function(e){e.stopPropagation();open_(li+1)};
+document.getElementById("lx").onclick=function(){lb.style.display="none"};lb.onclick=function(e){if(e.target==lb)lb.style.display="none"};
+document.onkeydown=function(e){if(lb.style.display!="flex")return;if(e.key=="Escape")lb.style.display="none";if(e.key=="ArrowLeft")open_(li-1);if(e.key=="ArrowRight")open_(li+1)};
+var hd=document.querySelector("header"),mb=document.getElementById("mb");
+function tg(o){hd.classList.toggle("open",o);mb.setAttribute("aria-expanded",o);document.getElementById("mp").setAttribute("d",o?"M6 6l12 12M18 6L6 18":"M4 7h16M4 12h16M4 17h16")}
+mb.onclick=function(){tg(!hd.classList.contains("open"))};document.querySelectorAll("nav a").forEach(function(a){a.onclick=function(){tg(false)}});
+
+//]]>
+</script>
+</body>
+</html>
